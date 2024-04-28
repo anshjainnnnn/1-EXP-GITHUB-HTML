@@ -1,0 +1,6 @@
+git init
+git status
+git commit -m "ANSH"
+git branch -M main
+git remote add origin https://github.com/anshjainnnnn/1-EXP-GITHUB-HTML.git
+git push -u origin main
